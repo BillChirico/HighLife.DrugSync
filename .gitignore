@@ -352,6 +352,8 @@ ASALocalRun/
 **/.idea/**/*.iml
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
+.DS_Store
+.idea/
 
 #Custom
 Database.json
