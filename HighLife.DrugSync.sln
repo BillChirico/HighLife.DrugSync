@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLife.DrugSync.Runner", "src\HighLife.DrugSync.Runner\HighLife.DrugSync.Runner.csproj", "{BBAD559E-4887-459F-B8BB-09418E8EAD19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLife.DrugSync.Service", "src\HighLife.DrugSync.Service\HighLife.DrugSync.Service.csproj", "{17BBF2D3-E082-48DD-B4CA-36263F7F13AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLife.DrugSync.Domain", "src\HighLife.DrugSync.Domain\HighLife.DrugSync.Domain.csproj", "{CC93DCE3-46DB-4FDB-9996-955A0F92B860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BBF2D3-E082-48DD-B4CA-36263F7F13AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BBF2D3-E082-48DD-B4CA-36263F7F13AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BBF2D3-E082-48DD-B4CA-36263F7F13AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BBF2D3-E082-48DD-B4CA-36263F7F13AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC93DCE3-46DB-4FDB-9996-955A0F92B860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC93DCE3-46DB-4FDB-9996-955A0F92B860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC93DCE3-46DB-4FDB-9996-955A0F92B860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC93DCE3-46DB-4FDB-9996-955A0F92B860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
