@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLife.DrugSync.Runner", "src\HighLife.DrugSync.Runner\HighLife.DrugSync.Runner.csproj", "{BBAD559E-4887-459F-B8BB-09418E8EAD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAD559E-4887-459F-B8BB-09418E8EAD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
